@@ -1,0 +1,8 @@
+CACHE MANIFEST
+https://www.bigstockphoto.com/images/homepage/2016_popular_photo_categories.jpg
+
+NETWORK:
+login.php
+
+FALLBACK:
+/html/ /offline.html
